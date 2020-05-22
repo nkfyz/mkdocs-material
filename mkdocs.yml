@@ -114,7 +114,7 @@ markdown_extensions:
 # Page tree
 nav:
   - 首页: index.md
-  - 写在前面: getting-started.md
+  - 写在前面: perface.md
   - 环境文档:
     - Admonition: extensions/admonition.md
     - CodeHilite: extensions/codehilite.md
