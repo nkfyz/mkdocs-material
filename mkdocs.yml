@@ -30,7 +30,7 @@ repo_url:
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2020 Martin Donath
+copyright: Copyright &copy; 2016 - 2020 Yaozheng Fang
 
 # Configuration
 theme:
@@ -42,7 +42,7 @@ theme:
     - 404.html
 
   # Don't include MkDocs' JavaScript
-  include_search_page: false
+  include_search_page: true
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
@@ -53,7 +53,7 @@ theme:
   palette:
     scheme: default
     primary: blue gray
-    accent: indigo
+    accent: blue gray
   font:
     text: Roboto
     code: Roboto Mono
