@@ -118,15 +118,11 @@ nav:
   - 环境文档:
     - Kubedge配置: env/kubedge.md
     - 自定义预编译合约: env/pre-smart-contract.md
-    - 以太坊数据转换: eth-golang.md
-    - 以太坊指令集: eth-isa.md
-    - Lenet5网络: lenet5.md
+    - 以太坊数据转换: env/eth-golang.md
+    - 以太坊指令集: env/eth-isa.md
+    - Lenet5网络: env/lenet5.md
   - 索引:
     - 以太坊常用参考: ref/eth-ref.md
-  - 文件库:
-    - Upgrading to 5.x: releases/5.md
-    - Upgrading to 4.x: releases/4.md
-    - Changelog: releases/changelog.md
 
 # Google Analytics
 google_analytics:
