@@ -116,12 +116,8 @@ nav:
   - 首页: index.md
   - 写在前面: perface.md
   - 环境文档:
-    - Admonition: extensions/admonition.md
-    - CodeHilite: extensions/codehilite.md
-    - Footnotes: extensions/footnotes.md
-    - Metadata: extensions/metadata.md
-    - Permalinks: extensions/permalinks.md
-    - PyMdown: extensions/pymdown.md
+    - Kubedge配置: env/kubedge.md
+    - 自定义预编译合约: env/pre-smart-contract.md
   - 索引:
     - Search: plugins/search.md
     - Minification: plugins/minification.md
